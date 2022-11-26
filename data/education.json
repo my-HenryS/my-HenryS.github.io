@@ -1,0 +1,21 @@
+[
+    {
+        "school":"University of Illinois at Urbana-Champaign",
+        "degree":"Ph.D. in Computer Science",
+        "location":"Urbana, Illinois",
+        "range":"2020 - Present"
+    },
+    {
+        "school":"University of Illinois at Urbana-Champaign",
+        "degree":"Master of Science in Computer Science",
+        "location":"Urbana, Illinois",
+        "range":"2018 - 2020"
+    },
+    {
+        "school":"Beihang University",
+        "degree":"Bachelor of Science in Computer Science",
+        "location":"Beijing, China",
+        "range":"2014 - 2018"
+    }
+]
+

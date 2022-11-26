@@ -1,0 +1,38 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="publications">
+    <div class="my-auto" id="publications-content">
+      <div class="mb-5">
+        <h2>Publications</h2>
+        (* co-primary authors)
+      </div>
+      {{ range .Site.Data.publications }}
+          <div class="resume-item d-flex flex-column flex-md-row mt-3">
+            <div class="resume-content mr-auto">
+              <b style="color: #1E3877">{{ .title }}</b>
+              <br>
+              {{ .authors | markdownify }}
+            </div>
+            <div class="resume-date text-md-right">
+              <b style="color: #1E3877">{{ .where_published }}</b>
+            </div>
+            
+          </div>
+          <div class="resume-item d-flex flex-column flex-md-row mb-0">
+            <body>
+              {{ if .to_appear }} 
+              [Camera-ready version coming soon] 
+              {{ end }}
+            
+
+              {{ if .paper }} <li class="list-inline-item"><a href="{{.paper}}">[paper]</a></li> {{ end }} 
+              {{ if .slides }} <li class="list-inline-item"><a href="{{.slides}}">[slides]</a></li> {{ end }} 
+              {{ if .code }} <li class="list-inline-item"><a href="{{.code}}">[code]</a></li> {{ end }}
+              {{ if .talk }}<li class="list-inline-item"><a href="{{.talk}}">[talk]</a> </li>{{ end }}
+            </body>
+          </div>
+
+      {{ end }}
+
+    </div>
+  
+  </section>
+  

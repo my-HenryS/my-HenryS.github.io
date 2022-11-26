@@ -1,0 +1,22 @@
+[
+    {
+        "entry":"Our work on a learning-based flash translation layer LeaFTL has been accepted by ASPLOS '23.",
+        "date":"[Sept 2022]"
+    },
+    {
+        "entry":"Our research on a learning-based storage harvesting framework BlockFlex has been accepted by OSDI '22.",
+        "date":"[March 2022]"
+    },
+    {
+        "entry":"Our workshop paper on redesigning data centers for renewable energy has been accepted by HotNets '21.",
+        "date":"[Aug 2021]"
+    },
+    {
+        "entry":"Our research on a crash-consistency testing framework for HPC storage has been accepted by SC '21.",
+        "date":"[June 2021]"
+    },
+    {
+        "entry":"I started my internship at Microsoft Research.",
+        "date":"[May 2021]"
+    }
+]
