@@ -9,7 +9,7 @@
     {
         "role":"Research Intern",
         "company":"PACMAN Group @ Tsinghua University",
-        "summary":"Performance variability issue can significantly impact supercomputer performance. However, it is challenging to detect them with high efficiency and low overhead at scale. We built a lightweight performance variability analysis tool with high detection coverage. We evaluated it on the Tianhe-2 Supercomputer with more than 16,000 parallel processes. We showed that our tool could detect real-world performance variability issues in the supercomputer with minimal performance interference to existing programs.",
+        "summary":"Performance variability issues can significantly impact supercomputer performance. However, it is challenging to detect them with high efficiency and low overhead at scale. We built a lightweight performance variability analysis tool with high detection coverage. We evaluated it on the Tianhe-2 Supercomputer with more than 16,000 parallel processes. We showed that our tool could detect real-world performance variability issues in the supercomputer with minimal performance interference to existing programs.",
         "range":"May 2019 - Sept 2019",
         "mentor":"Mentors: Jidong Zhai, Weimin Zheng"
     },
