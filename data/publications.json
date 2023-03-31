@@ -1,13 +1,20 @@
 [
     {
-        "authors": "**Jinghan Sun**, Shaobo Li, Yunxin Sun, Chao Sun, Dejan Vucinic, Jian Huang",
-        "title": "LeaFTL: A Learning-based Flash Translation Layer for Solid-State Drives",
-        "where_published": "ASPLOS '23",
+        "authors": "**Jinghan Sun**, Shaobo Li, Jun Xu, Jian Huang",
+        "title": "The Security War in File Systems: An Empirical Study from A Vulnerability-Centric Perspective",
+        "where_published": "ACM TOS '23",
         "code": "",
         "paper": "",
-        "talk": "",
-        "slides": "",
-        "to_appear": true
+        "to_appear" : true
+    },
+    {
+        "authors": "**Jinghan Sun**, Shaobo Li, Yunxin Sun, Chao Sun, Dejan Vucinic, Jian Huang",
+        "title": "LeaFTL: A Learning-Based Flash Translation Layer for Solid-State Drives",
+        "where_published": "ASPLOS '23",
+        "code": "https://github.com/platformxlab/leaftl",
+        "paper": "papers/leaftl-asplos2023.pdf",
+        "talk": "https://1drv.ms/v/s!AsenEzVHRpToi5xbDOvDtXNtvvsXGQ?e=YfOM3k",
+        "slides": "https://drive.google.com/file/d/1aHXXGhyXspsykCvXyuic7pvEgydL6hwF/view?usp=sharing"
     },
     {
         "authors": "Benjamin Reidys*, **Jinghan Sun***, Anirudh Badam, Shadi Noghabi, Jian Huang",
@@ -64,7 +71,7 @@
         "slides": ""
     },
     {
-        "authors": "Jidong Zhai, Liyan Zheng, **Jinghan Sun**, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weiming Zheng",
+        "authors": "Jidong Zhai, Liyan Zheng, **Jinghan Sun**, Feng Zhang, Xiongchao Tang, Xuehai Qian, Bingsheng He, Wei Xue, Wenguang Chen, Weimin Zheng",
         "title": "Leveraging Code Snippets to Detect Variations in the Performance of HPC Systems",
         "where_published": "IEEE TPDS",
         "code": "",

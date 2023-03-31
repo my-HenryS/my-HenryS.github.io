@@ -29,7 +29,10 @@
        {{ partial "portfolio/experience.html" . }}
    {{ end }}
    {{ if .Site.Params.showEducation }}
-   {{ partial "portfolio/education.html" . }}
+      {{ partial "portfolio/education.html" . }}
+   {{ end }}
+   {{ if .Site.Params.showMisc }}
+      {{ partial "portfolio/misc.html" . }}
    {{ end }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}

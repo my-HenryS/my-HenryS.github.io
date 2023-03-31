@@ -3,19 +3,29 @@
         "school":"University of Illinois at Urbana-Champaign",
         "degree":"Ph.D. in Computer Science",
         "location":"Urbana, Illinois",
-        "range":"2020 - Present"
+        "range":"2020 - Present",
+        "notes" : "Thesis Title: Towards Learning-Based Storage Systems -- A Holistic Approach"
     },
     {
         "school":"University of Illinois at Urbana-Champaign",
         "degree":"Master of Science in Computer Science",
         "location":"Urbana, Illinois",
-        "range":"2018 - 2020"
+        "range":"2018 - 2020",
+        "notes" : "Thesis Title: Detecting and Understanding Crash-Consistency Bugs across the Parallel I/O Stack"
     },
     {
         "school":"Beihang University",
         "degree":"Bachelor of Science in Computer Science",
         "location":"Beijing, China",
-        "range":"2014 - 2018"
+        "range":"2014 - 2018",
+        "notes" : "Outstanding Graduation Award"
+    },
+    {
+        "school":"Beijing No.8 High School",
+        "degree":"Special Class for the Gifted Young",
+        "location":"Beijing, China",
+        "range":"2009 - 2014",
+        "notes" : "Entered College at the Age of 15"
     }
 ]
 

@@ -34,13 +34,15 @@
         <div>
           <h3>About me</h3>
           <div class="resume-item d-flex flex-column flex-md-row mb-0">
-          <body style="text-align: justify;">{{ .Content}}</body>
+            <body style="text-align: justify;">{{ .Content }}</body>
           </div> 
           <h3>News</h3>
           {{ range .Site.Data.news }}
-              <li style="margin-bottom: 8px;">
-                <b style="color:#1D58A7">{{ .date }} </b> {{ .entry | markdownify}}
-              </li>
+              {{ if .entry }}
+                <li style="margin-bottom: 8px;">
+                    <b style="color:#C84113">{{ .date }} </b> {{ .entry | markdownify}}
+                </li>
+              {{ end }}
           {{ end }}
           <!-- <h3>Certifications</h3>
           <ul class="list-inline list-social-icons mb-0">

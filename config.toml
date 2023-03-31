@@ -22,6 +22,7 @@ showExperience = true
 showOpenSource = false
 showProjects = false
 showPublications = true
+showMisc = true
 showQr = false
 showSkills = false
 
