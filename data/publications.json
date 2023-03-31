@@ -17,7 +17,7 @@
         "slides": "https://drive.google.com/file/d/1aHXXGhyXspsykCvXyuic7pvEgydL6hwF/view?usp=sharing"
     },
     {
-        "authors": "Benjamin Reidys*, **Jinghan Sun***, Anirudh Badam, Shadi Noghabi, Jian Huang",
+        "authors": "Benjamin Reidys*, **Jinghan Sun&ast;**, Anirudh Badam, Shadi Noghabi, Jian Huang",
         "title": "BlockFlex: Enabling Storage Harvesting with Software-Defined Flash in Modern Cloud Platforms",
         "where_published": "OSDI '22",
         "code": "https://github.com/platformxlab/blockflex",
@@ -44,7 +44,7 @@
         "slides": ""
     },
     {
-        "authors": "Anup Agarwal*, **Jinghan Sun***, Shadi Noghabi, Srinivasan Iyengar, Anirudh Badam, Ranveer Chandra, Srinivasan Seshan, Shivkumar Kalyanaraman",
+        "authors": "Anup Agarwal*, **Jinghan Sun&ast;**, Shadi Noghabi, Srinivasan Iyengar, Anirudh Badam, Ranveer Chandra, Srinivasan Seshan, Shivkumar Kalyanaraman",
         "title": "Redesigning Data Centers for Renewable Energy",
         "where_published": "HotNets '21",
         "code": "",
