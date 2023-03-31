@@ -42,6 +42,8 @@
   {{ end }}
 </head>
 <body id="page-top">
+  <div id="body" style="display:none;">
+
   {{ partial "nav.html" . }}
   <div class="container-fluid p-0">
     {{ block "main" . }}
@@ -71,5 +73,12 @@
   {{ block "footerfiles" . }}
 
   {{ end }}
+  </div>
+  <script type="text/javascript">
+    $(document).ready(function() {
+        $('#body').show();
+        $('#msg').hide();
+    });
+    </script>
 </body>
 </html>
