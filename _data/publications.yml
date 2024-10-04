@@ -1,0 +1,82 @@
+learning:
+
+  - title: Achieving Both Performance Isolation and Improved Utilization for Multi-tenant Cloud Storage with RIO
+    authors: <strong>Jinghan Sun</strong>, Benjamin Reidys, Daixuan Li, Jichuan Chang, Marc Snir, Jian Huang
+    conference: ASPLOS 2025
+    pdf: 
+    code:
+    notes:
+
+  - title: "LeaFTL: A Learning-Based Flash Translation Layer for Solid-State Drives"
+    authors: <strong>Jinghan Sun</strong>, Shaobo Li, Yunxin Sun, Chao Sun, Dejan Vucinic, Jian Huang 
+    conference: ASPLOS 2023
+    pdf: https://dl.acm.org/doi/10.1145/3575693.3575744
+    code: https://github.com/platformxlab/LeaFTL
+    talk: 
+    notes: 
+
+  - title: Learning to Drive Software-Defined Solid-State Drives
+    authors: Daixuan Li, <strong>Jinghan Sun</strong>, Jian Huang
+    conference: MICRO 2023
+    pdf: https://dl.acm.org/doi/10.1145/3613424.3614281/
+    code: https://github.com/platformxlab/AutoBlox
+    talk: 
+    notes:
+
+  - title: "BlockFlex: Enabling Storage Harvesting with Software-Defined Flash in Modern Cloud Platforms"
+    authors: Benjamin Reidys*, <strong>Jinghan Sun*</strong>, Anirudh Badam, Shadi Noghabi, Jian Huang
+    conference: OSDI 2022
+    pdf: https://www.usenix.org/system/files/osdi22-reidys.pdf
+    code: https://github.com/platformxlab/BlockFlex
+    talk: 
+    notes: Memorable Paper Award Finalist at NVMW '23!
+
+  - title: "Learning to Drive Software-Defined Storage"
+    authors: Jian Huang, Daixuan Li, <strong>Jinghan Sun</strong>
+    conference: ML for Systems Workshop at NeurIPS 2022
+    pdf: https://mlforsystems.org/assets/papers/neurips2022/paper27.pdf
+    code: https://github.com/platformxlab/AutoBlox
+    talk: 
+    notes: Spotlight Paper
+
+reliable:
+  - title: "The Security War in File Systems: An Empirical Study from A Vulnerability-Centric Perspective"
+    authors: <strong>Jinghan Sun</strong>, Shaobo Li, Jun Xu, Jian Huang
+    conference: ACM Transactions on Storage 2023
+    pdf: https://dl.acm.org/doi/10.1145/3606020
+    code: 
+    talk: 
+    notes:
+
+  - title: "Pinpointing Crash-Consistency Bugs in the HPC I/O Stack: A Cross-Layer Approach"
+    authors: <strong>Jinghan Sun</strong>, Jian Huang, Marc Snir
+    conference: SC 2021
+    pdf: https://dl.acm.org/doi/10.1145/3458817.3476144
+    code: https://github.com/my-HenryS/ParaCrash
+    talk: 
+    notes:
+
+  - title: "Understanding and Finding Crash-Consistency Bugs in Parallel File Systems"
+    authors: <strong>Jinghan Sun</strong>, Chen Wang, Jian Huang, Marc Snir
+    conference: HotStorage 2020
+    pdf: https://www.usenix.org/system/files/hotstorage20_paper_sun_0.pdf
+    code: https://github.com/my-HenryS/ParaCrash
+    talk: 
+    notes:
+
+sustainable:
+  - title: Exploring the Eﬀiciency of Renewable Energy-based Modular Data Centers at Scale
+    authors: <strong>Jinghan Sun*</strong>, Zibo Gong*, Anup Agarwal, Shadi Noghabi, Ranveer Chandra, Marc Snir, Jian Huang.
+    conference: ACM SoCC 2024
+    pdf: 
+    code: 
+    talk: 
+    notes:
+
+  - title: Redesigning Data Centers for Renewable Energy
+    authors: Anup Agarwal*, <strong>Jinghan Sun*</strong>, Shadi Noghabi, Srinivasan Iyengar, Anirudh Badam, Ranveer Chandra, Srinivasan Seshan, Shivkumar Kalyanaraman.
+    conference: HotNets 2021
+    pdf: https://dl.acm.org/doi/10.1145/3484266.3487394
+    code: 
+    talk: 
+    notes:
