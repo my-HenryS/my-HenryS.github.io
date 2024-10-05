@@ -10,14 +10,14 @@
 <li style="margin: 0px 0px 5px;">
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}" style="font-size:19px">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em> 
       </div>
-      <font style="color:red">{{ link.notes }}</font>
+      <font style="color:#9b2d15; font-weight:800">{{ link.notes }}</font>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[PDF]</a>
+      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[Paper]</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:16px; color:black; text-decoration:underline">[Code]</a>
@@ -49,14 +49,14 @@
 <li style="margin: 0px 0px 5px;">
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}" style="font-size:19px">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em> 
       </div>
       <font style="color:red">{{ link.notes }}</font>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[PDF]</a>
+      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[Paper]</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:16px; color:black; text-decoration:underline">[Code]</a>
@@ -89,14 +89,14 @@
 <li style="margin: 0px 0px 5px;">
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 0px;padding-left: 0px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="title"><a href="{{ link.pdf }}" style="font-size:19px">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em> 
       </div>
       <font style="color:red">{{ link.notes }}</font>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[PDF]</a>
+      <a href="{{ link.pdf }}" style="font-size:16px; color:black; text-decoration:underline">[Paper]</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" style="font-size:16px; color:black; text-decoration:underline">[Code]</a>

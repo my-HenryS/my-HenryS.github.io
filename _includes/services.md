@@ -32,7 +32,7 @@
 
 ## Invited Talks
 <ul style="margin:0 0 20px;">
-  <li>Towards Learning-Based Storage Ecosystem, ByteDance Tech Talk, 2023</li>
+  <li>Towards a Learning-Based Storage Ecosystem, ByteDance Tech Talk, 2023</li>
   <li>Learning-Based Flash Translation, Western Digital 2030 AI Focus Seminar, 2022</li>
 </ul>
 
@@ -50,7 +50,9 @@
   <li>Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2020 - Present</li>
   <li>M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2018 - 2020</li>
   <li>B.S. in Computer Science, Beihang University, 2014 - 2018</li>
-  <font style="color:blue"> I obtained my bachelor's degree at the age of 19 :) </font>
+
+  <font style="color:#337DFF"> I obtained my bachelor's degree at the age of 19 :) </font>
+
 </ul>
 
 ## Miscellaneous

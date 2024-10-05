@@ -1,6 +1,6 @@
 learning:
 
-  - title: Achieving Both Performance Isolation and Improved Utilization for Multi-tenant Cloud Storage with RIO
+  - title: "RIO: Achieving Both Performance Isolation and Improved Utilization for Multi-tenant Cloud Storage"
     authors: <strong>Jinghan Sun</strong>, Benjamin Reidys, Daixuan Li, Jichuan Chang, Marc Snir, Jian Huang
     conference: ASPLOS 2025
     pdf: 
@@ -29,7 +29,7 @@ learning:
     pdf: https://www.usenix.org/system/files/osdi22-reidys.pdf
     code: https://github.com/platformxlab/BlockFlex
     talk: 
-    notes: Memorable Paper Award Finalist at NVMW '23!
+    notes: Memorable Paper Award Finalist at NVMW '23
 
   - title: "Learning to Drive Software-Defined Storage"
     authors: Jian Huang, Daixuan Li, <strong>Jinghan Sun</strong>
@@ -37,7 +37,7 @@ learning:
     pdf: https://mlforsystems.org/assets/papers/neurips2022/paper27.pdf
     code: https://github.com/platformxlab/AutoBlox
     talk: 
-    notes: Spotlight Paper
+    notes:
 
 reliable:
   - title: "The Security War in File Systems: An Empirical Study from A Vulnerability-Centric Perspective"
