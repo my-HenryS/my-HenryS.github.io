@@ -1,6 +1,6 @@
 learning:
 
-  - title: "RIO: Achieving Both Performance Isolation and Improved Utilization for Multi-tenant Cloud Storage"
+  - title: "FleetIO: Managing Multi-Tenant Cloud Storage with Multi-Agent Reinforcement Learning"
     authors: <strong>Jinghan Sun</strong>, Benjamin Reidys, Daixuan Li, Jichuan Chang, Marc Snir, Jian Huang
     conference: ASPLOS 2025
     pdf: assets/files/fleetio.pdf
