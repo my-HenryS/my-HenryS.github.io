@@ -2,7 +2,10 @@
 layout: homepage
 ---
 
-I am a **final-year** CS Ph.D. student at the University of Illinois at Urbana-Champaign, advised by [Prof. Marc Snir](https://snir.cs.illinois.edu) and [Prof. Jian Huang](http://jianh.web.engr.illinois.edu).  My research focuses on computer systems, specifically **building efficient and reliable storage systems using machine learning**. I work across the entire storage systems stack, from storage devices like SSDs to file systems and cloud storage infrastructure.
+I am a final-year CS Ph.D. student at the University of Illinois at Urbana-Champaign, advised by [Prof. Marc Snir](https://snir.cs.illinois.edu) and [Prof. Jian Huang](http://jianh.web.engr.illinois.edu). My research interests are at the intersection of machine learning (ML) and systems, with a particular focus on **building efficient and reliable storage systems using machine learning**. I work across the entire storage stack, from storage hardware development (e.g., solid-state drives) to system software and cloud storage platforms.
+
+
+<span style="color:#B83C08; font-weight:bold"> I am on the academic job market! </span>
 
 ## News
 - [10/2024] Our work on RL-based multi-tenant storage systems has been accepted by ASPLOS '25.

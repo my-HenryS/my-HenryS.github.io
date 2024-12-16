@@ -7,6 +7,13 @@
   <li>ML for Systems Workshop at NeurIPS 2024</li>
 </ul>
 
+<h4 style="margin:0 10px 0;">External Reviewer</h4>
+
+<ul style="margin:0 0 5px;">
+  <li>VLDB 2024</li>
+  <li>ATC 2024</li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Artifact Evaluation Commitee</h4>
 
 <ul style="margin:0 0 20px;">
@@ -17,6 +24,7 @@
 
 ## Teaching
 <ul style="margin:0 0 20px;">
+  <li>ECE 522 Emerging Memory and Storage Systems, UIUC, Fall 2024</li>
   <li>CS 233: Computer Architecture, UIUC, Fall 2023</li>
   <li>ECE 522 Emerging Memory and Storage Systems, UIUC, Spring 2023</li>
 </ul>

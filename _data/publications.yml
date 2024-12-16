@@ -10,7 +10,7 @@ learning:
   - title: "LeaFTL: A Learning-Based Flash Translation Layer for Solid-State Drives"
     authors: <strong>Jinghan Sun</strong>, Shaobo Li, Yunxin Sun, Chao Sun, Dejan Vucinic, Jian Huang 
     conference: ASPLOS 2023
-    pdf: https://dl.acm.org/doi/10.1145/3575693.3575744
+    pdf: assets/files/leaftl.pdf
     code: https://github.com/platformxlab/LeaFTL
     talk: 
     notes: 
@@ -18,7 +18,7 @@ learning:
   - title: Learning to Drive Software-Defined Solid-State Drives
     authors: Daixuan Li, <strong>Jinghan Sun</strong>, Jian Huang
     conference: MICRO 2023
-    pdf: https://dl.acm.org/doi/10.1145/3613424.3614281/
+    pdf: assets/files/autoblox.pdf
     code: https://github.com/platformxlab/AutoBlox
     talk: 
     notes:
@@ -26,7 +26,7 @@ learning:
   - title: "BlockFlex: Enabling Storage Harvesting with Software-Defined Flash in Modern Cloud Platforms"
     authors: Benjamin Reidys*, <strong>Jinghan Sun*</strong>, Anirudh Badam, Shadi Noghabi, Jian Huang
     conference: OSDI 2022
-    pdf: https://www.usenix.org/system/files/osdi22-reidys.pdf
+    pdf: assets/files/blockflex.pdf
     code: https://github.com/platformxlab/BlockFlex
     talk: 
     notes: Memorable Paper Award Finalist at NVMW '23
@@ -43,7 +43,7 @@ reliable:
   - title: "The Security War in File Systems: An Empirical Study from A Vulnerability-Centric Perspective"
     authors: <strong>Jinghan Sun</strong>, Shaobo Li, Jun Xu, Jian Huang
     conference: ACM Transactions on Storage 2023
-    pdf: https://dl.acm.org/doi/10.1145/3606020
+    pdf: assets/files/secfs.pdf
     code: 
     talk: 
     notes:
@@ -51,7 +51,7 @@ reliable:
   - title: "Pinpointing Crash-Consistency Bugs in the HPC I/O Stack: A Cross-Layer Approach"
     authors: <strong>Jinghan Sun</strong>, Jian Huang, Marc Snir
     conference: SC 2021
-    pdf: https://dl.acm.org/doi/10.1145/3458817.3476144
+    pdf: assets/files/paracrash.pdf
     code: https://github.com/my-HenryS/ParaCrash
     talk: 
     notes:
