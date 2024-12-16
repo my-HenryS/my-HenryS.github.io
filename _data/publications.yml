@@ -3,7 +3,7 @@ learning:
   - title: "RIO: Achieving Both Performance Isolation and Improved Utilization for Multi-tenant Cloud Storage"
     authors: <strong>Jinghan Sun</strong>, Benjamin Reidys, Daixuan Li, Jichuan Chang, Marc Snir, Jian Huang
     conference: ASPLOS 2025
-    pdf: 
+    pdf: assets/files/fleetio.pdf
     code:
     notes:
 
@@ -68,8 +68,8 @@ sustainable:
   - title: Exploring the Efficiency of Renewable Energy-based Modular Data Centers at Scale
     authors: <strong>Jinghan Sun*</strong>, Zibo Gong*, Anup Agarwal, Shadi Noghabi, Ranveer Chandra, Marc Snir, Jian Huang.
     conference: ACM SoCC 2024
-    pdf: 
-    code: 
+    pdf: assets/files/skybox.pdf
+    code: https://github.com/my-HenryS/SkyBox
     talk: 
     notes:
 
@@ -77,6 +77,6 @@ sustainable:
     authors: Anup Agarwal*, <strong>Jinghan Sun*</strong>, Shadi Noghabi, Srinivasan Iyengar, Anirudh Badam, Ranveer Chandra, Srinivasan Seshan, Shivkumar Kalyanaraman.
     conference: HotNets 2021
     pdf: https://dl.acm.org/doi/10.1145/3484266.3487394
-    code: 
+    code: https://github.com/my-HenryS/SkyBox
     talk: 
     notes:
