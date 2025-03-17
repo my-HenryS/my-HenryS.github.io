@@ -32,6 +32,7 @@
 
 ## Awards
 <ul style="margin:0 0 20px;">
+  <li>ML and Systems Rising Stars, MLCommons, 2025</li>
   <li>Kenichi Miura Award – For Excellence in High-Performance Computing, UIUC, 2023</li>
   <li>NVMW Memorable Paper Award Finalist, NVMW, 2023</li>
   <li>Student Travel Grants, NVMW ’23 & OSDI ’22</li>
