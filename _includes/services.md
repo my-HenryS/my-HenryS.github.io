@@ -1,33 +1,42 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Reviewer</h4>
+<h4 style="margin:0 10px 0;">Program Committee</h4>
+<ul style="margin:0 0 5px;">
+  <li>USENIX Conference on File and Storage Technologies (FAST), 2027</li>
+  <li>International Symposium on Computer Architecture (ISCA), 2026</li>
+  <li>Non-Volatile Memories Workshop (NVMW), 2026</li>
+  <li>ML for Systems Workshop at NeurIPS (ML4SysW), 2024, 2025</li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>ACM Transactions on Storage (TOS), 2025</li>
-  <li>IEEE Computer Architecture Letters (CAL), 2024</li>
-  <li>ML for Systems Workshop at NeurIPS, 2024, 2025</li>
+  <li>ACM Transactions on Storage (TOS)</li>
+  <li>IEEE Computer Architecture Letters (CAL)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">External Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>VLDB 2024</li>
-  <li>ATC 2024</li>
+  <li>European Conference on Computer Systems (EuroSys) Shadow PC, 2025</li>
+  <li>International Conference on Very Large Data Bases (VLDB), 2024</li>
+  <li>USENIX Annual Technical Conference (ATC), 2024</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Artifact Evaluation Commitee</h4>
 
 <ul style="margin:0 0 20px;">
-  <li>ATC 2023</li>
-  <li>SC 2021</li>
+  <li>USENIX Annual Technical Conference (ATC), 2023</li>
+  <li>Supercomputing (SC), 2021</li>
 </ul>
 
 
 ## Teaching
+<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 <ul style="margin:0 0 20px;">
-  <li>ECE 522 Emerging Memory and Storage Systems, UIUC, TA, Fall 2024</li>
-  <li>CS 233: Computer Architecture, UIUC, TA, Fall 2023</li>
-  <li>ECE 522 Emerging Memory and Storage Systems, UIUC, TA, Spring 2023</li>
+  <li>ECE 522 Emerging Memory and Storage Systems, UIUC, Fall 2024</li>
+  <li>CS 233: Computer Architecture, UIUC, Fall 2023</li>
+  <li>ECE 522 Emerging Memory and Storage Systems, UIUC, Spring 2023</li>
 </ul>
 
 
@@ -44,7 +53,7 @@
 <ul style="margin:0 0 20px;">
   <li>
     <font style="color:black"> Towards Building a Learning-Based Storage Ecosystem and Beyond, 2025 </font><br>
-    @ UC Irvine, UNC Chapel Hill, Purdue, Univ. of Edinburgh, Syracuse, IU Bloomington, Yale
+    @ UC Irvine, UNC Chapel Hill, Purdue, Univ. of Edinburgh, Syracuse, IU Bloomington, Yale, Harvard
   </li>
   <li> <font style="color:black"> Exploring the Efficiency of Renewable Energy-based Modular Data Centers at Scale, 2024</font><br>
     @ CSL Compute-Energy-Nexus Workshop
