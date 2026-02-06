@@ -66,7 +66,7 @@
   <li>Software Intern, Open Source Technology Center @ Intel China, 2018</li>
 </ul>
 
-## Education
+<!-- ## Education
 <ul style="margin:0 0 20px;">
   <li>Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2020 - 2025</li>
   <li>M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2018 - 2020</li>
@@ -74,7 +74,7 @@
 
   <font style="color:#337DFF"> I obtained my bachelor's degree at the age of 19 :) </font>
 
-</ul>
+</ul> -->
 
 ## Miscellaneous
 <ul style="margin:0 0 20px;">
