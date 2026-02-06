@@ -71,7 +71,7 @@
   <li>Postdoctoral Researcher, Systems and Machine Learning Research Group @ Meta FAIR, 2025</li>
   <li>Research Intern, Systems Innovation and Cloud Reliability Group @ Microsoft Research, 2023</li>
   <li>Research Intern, Systems & Networking Group @ Microsoft Research, 2021</li>
-  <li>Research Intern, PACMAN Group @ Tsinghua University, 2019</li>
+  <!-- <li>Research Intern, PACMAN Group @ Tsinghua University, 2019</li> -->
   <li>Software Intern, Open Source Technology Center @ Intel China, 2018</li>
 </ul>
 
